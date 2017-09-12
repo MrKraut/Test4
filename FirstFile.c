@@ -6,6 +6,8 @@ task main()
   motor[motorA] = 20;
   wait1Msec(1000);
 
+  // another comment
+
 
 
 }
