@@ -3,7 +3,7 @@ task main()
 {
 	// this is a comment
 
-  motor[motorA] = 100;
+  motor[motorA] = 20;
   wait1Msec(1000);
 
 
