@@ -8,6 +8,10 @@ task main()
 		motor[motorB] = 50;
 	}
 
+  motor[motorA] = 100;
+  wait1Msec(1000); // lower wait
+
+  // another comment here
 
 
 
