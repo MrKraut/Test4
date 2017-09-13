@@ -5,7 +5,7 @@ task main()
 {
 	while(SensorValue(button) == 0)
 	{
-		motor[motorB] = 50;
+		motor[motorB] = 50; // change near top
 	}
 
   motor[motorA] = 100;
